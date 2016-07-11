@@ -1,0 +1,5 @@
+This folder contains examples of using VPython in the Jupyter Notebook using the Python 3 kernel. These examples are form a github compiled by Bruce Sherwood at https://github.com/BruceSherwood/vpython-jupyter. Some slight modifications were made to ensure that they work with the notebook (namely adding/removing import statements).
+
+It is important to note that anytime you want to re-run a VPython program in Jupyter, you must restart the active kernel.
+
+Additional examples of Python can be found at http://www.glowscript.org/#/user/matterandinteractions/folder/matterandinteractions/ which uses the the GlowScript IDE. Many of the examples here appear to have depend ices on the GlowScript environment, and will not run in Jupyter without considerable modification.
